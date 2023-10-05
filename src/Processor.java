@@ -1,3 +1,4 @@
+*Esta clase está añadida a git.
 public class Processor {
     //States, attributes, property
     public String brand;
